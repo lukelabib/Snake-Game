@@ -25,3 +25,5 @@ Features a clean minimal menu with multiple difficulty levels and a hidden **Imp
 ```bash
 git clone https://github.com/your-username/snake-game.git
 cd snake-game
+python3 -m pip install pygame
+python3 snake.py
