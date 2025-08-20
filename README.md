@@ -4,6 +4,8 @@
 A modern **retro-style Snake game** built with Python and [pygame](https://www.pygame.org/).  
 Features a clean minimal menu with multiple difficulty levels and a hidden **Impossible Mode** unlockable after a challenge.  
 
+<img width="597" height="427" alt="Screenshot 2025-08-19 at 21 28 35" src="https://github.com/user-attachments/assets/c26b12a4-9189-4057-aef1-8d7a5410ca29" />
+
 ---
 
 ## 🎮 Features
